@@ -1,0 +1,12 @@
+{
+  "name": "read-file-lines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/read-file.js",
+  "scripts": {
+  	"start": "node src/read-file.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
